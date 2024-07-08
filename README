@@ -1,0 +1,7 @@
+# Compiling
+
+Just use "make" all executables will be inside bin/*/ with corresponding names
+
+# Running 
+
+Go to specific HW file inside /bin then run it with "./<file_name> 
